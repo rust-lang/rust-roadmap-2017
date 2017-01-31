@@ -8,7 +8,7 @@ in [RFC 1774](https://github.com/rust-lang/rfcs/pull/1774).
 The issues in this repository track the progress on our 2017 roadmap. There are
 issues for each of the vision statements:
 
-* [Rust should have a lower learning curve](](https://github.com/aturon/rust-roadmap/issues/3))
+* [Rust should have a lower learning curve](https://github.com/aturon/rust-roadmap/issues/3)
 * [Rust should have a pleasant edit-compile-debug cycle](https://github.com/aturon/rust-roadmap/issues/1)
 * [Rust should provide a solid, but basic IDE experience](https://github.com/aturon/rust-roadmap/issues/2)
 * [Rust should provide easy access to high quality crates](https://github.com/aturon/rust-roadmap/issues/9)
