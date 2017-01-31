@@ -5,8 +5,15 @@ the Rust community puts together a *roadmap* laying out a vision for
 improvements to Rust over the course of the year. The 2017 roadmap was decided
 in [RFC 1774](https://github.com/rust-lang/rfcs/pull/1774).
 
-The issues in this repository track the progress on our 2017 roadmap. There are
-issues for each of the vision statements:
+The issues in this repository track the progress on our 2017 roadmap.
+
+**Only Rust subteam members should create new issues in this repo**. If you
+believe a project should be added within the tracker, please leave a comment on
+the appropriate "parent" issue, i.e. one of the issues linked below. And in
+general, feel free to use comments to ask questions, pitch ideas, or mention
+updates that need to be made!
+
+There are issues for each of the vision statements:
 
 * [Rust should have a lower learning curve](https://github.com/aturon/rust-roadmap/issues/3)
 * [Rust should have a pleasant edit-compile-debug cycle](https://github.com/aturon/rust-roadmap/issues/1)
