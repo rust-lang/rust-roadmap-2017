@@ -163,4 +163,4 @@ doing in this space.
 In short, **productivity should be a core value of Rust**. By the end of 2017,
 let's try to earn the slogan:
 
-- Rust: fast, reliable, productive—pick three.
+- Rust: fast, reliable, productive—pick any three.
